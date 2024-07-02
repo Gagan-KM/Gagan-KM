@@ -49,7 +49,6 @@ I am eager to bring my expertise in machine learning, problem-solving abilities,
 
 - [LinkedIn](https://www.linkedin.com/in/gagan-k-m-a0580b285)
 - [GitHub](https://www.github.com/Gagan-KM)
--[X]([https://www.github.com/Gagan-KM](https://x.com/gagankm89))
 - **Email:** gagankm72@gmail.com
 
 Thank you for visiting my profile. I look forward to connecting with you!
