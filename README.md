@@ -71,6 +71,11 @@ Thank you for visiting my profile. I look forward to connecting with you!
 ![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
 ![Knime](https://img.shields.io/badge/Knime-%23FCC624.svg?style=for-the-badge&logo=knime&logoColor=black)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=black)
+![Dask](https://img.shields.io/badge/Dask-%235976AB.svg?style=for-the-badge&logo=dask&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
+
+These badges match the style you mentioned, similar to the AWS badge.
 
 ## 📊 GitHub Stats:
 ![Gagan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gagan-KM&show_icons=true&theme=radical)
