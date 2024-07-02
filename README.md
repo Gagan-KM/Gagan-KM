@@ -38,11 +38,18 @@
 - **Microsoft Power BI Certification:** Interactive data dashboards and reports
 - **Machine Learning in Python Certification:** Algorithms and model implementation (Scikit-Learn, TensorFlow, Dask)
 
+## 💡 Interests:
+- Designing and optimizing scalable data pipelines and ETL processes for efficient data engineering.
+- Developing and deploying machine learning models to solve complex predictive analytics problems.
+- Engaging in continuous learning of cutting-edge technologies in cloud computing and big data analytics.
+- Applying data visualization and exploratory data analysis (EDA) techniques to uncover actionable insights and enhance decision-making.
+
 ## 📫 Get in Touch:
 I am eager to bring my expertise in machine learning, problem-solving abilities, and enthusiasm for big data analytics to new and exciting projects.
 
 - [LinkedIn](https://www.linkedin.com/in/gagan-k-m-a0580b285)
 - [GitHub](https://www.github.com/Gagan-KM)
+-[X]([https://www.github.com/Gagan-KM](https://x.com/gagankm89))
 - **Email:** gagankm72@gmail.com
 
 Thank you for visiting my profile. I look forward to connecting with you!
