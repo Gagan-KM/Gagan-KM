@@ -8,11 +8,7 @@
 **Hard Skills:** Web Designing, Web Development, Machine Learning, Database Management, Data Analysis, Data Warehousing, Data Engineering, Data Visualization, Natural Language Processing  
 
 ## 🔭 Currently Working On:
-**Machine Learning Projects:**
-- **Auto Insurance Fraud Detection:** Led the development of a solution using C# and machine learning to detect and prevent insurance fraud. This initiative successfully reduced loss adjustment costs and boosted customer satisfaction.
-- **SMS Spam Prediction:** Developed an effective spam detection system using NLP techniques to enhance user communication safety.
-- **Credit Card Fraud Detection:** Created a machine learning model to identify fraudulent credit card transactions significantly improving security measures and reducing financial losses.
-- **Stroke Prediction:** Designed a predictive model to assess stroke risk based on patient data facilitating early intervention and improving healthcare management.
+**Machine Learning and Data engineering Projects**
 
 ## 💼 Work Experience:
 **Codsoft (04/2024 – 05/2024)**
@@ -31,13 +27,6 @@
 - **Bachelors of Computer Application** (11/2020 - 08/2023)
   - Mangalore University
 
-## 📜 Certifications:
-- **PythonX Certification:** Advanced Python Programming Techniques
-- **Certified in Big Data Analytics:** Apache Hadoop Spark data processing methods
-- **Python-based Data Visualization Certification (IBM):** Matplotlib Seaborn
-- **Microsoft Power BI Certification:** Interactive data dashboards and reports
-- **Machine Learning in Python Certification:** Algorithms and model implementation (Scikit-Learn, TensorFlow, Dask)
-
 ## 💡 Interests:
 - Designing and optimizing scalable data pipelines and ETL processes for efficient data engineering.
 - Developing and deploying machine learning models to solve complex predictive analytics problems.
@@ -45,7 +34,6 @@
 - Applying data visualization and exploratory data analysis (EDA) techniques to uncover actionable insights and enhance decision-making.
 
 ## 📫 Get in Touch:
-I am eager to bring my expertise in machine learning, problem-solving abilities, and enthusiasm for big data analytics to new and exciting projects.
 
 - [LinkedIn](https://www.linkedin.com/in/gagan-k-m-a0580b285)
 - [GitHub](https://www.github.com/Gagan-KM)
