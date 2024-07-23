@@ -8,7 +8,7 @@
 **Hard Skills:** Web Designing, Web Development, Machine Learning, Database Management, Data Analysis, Data Warehousing, Data Engineering, Data Visualization, Natural Language Processing  
 
 ## 🔭 Currently Working On:
-**Machine Learning and Data engineering Projects**
+**Machine Learning and Data Engineering Projects**
 
 ## 💼 Work Experience:
 **Codsoft (04/2024 – 05/2024)**
@@ -27,6 +27,9 @@
 - **Bachelors of Computer Application** (11/2020 - 08/2023)
   - Mangalore University
 
+## 📄 Certifications:
+- For my Certifications and License details visit my LinkedIN profile.
+  
 ## 💡 Interests:
 - Designing and optimizing scalable data pipelines and ETL processes for efficient data engineering.
 - Developing and deploying machine learning models to solve complex predictive analytics problems.
