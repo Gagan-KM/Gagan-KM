@@ -7,6 +7,8 @@
 **Techniques:** Cloud computing, ETL & ELT Processes, EDA  
 **Hard Skills:** Web Designing, Machine Learning, Database Management, Data Analysis, Data Warehousing, Data Visualization, Natural Language Processing  
 
+[![Gagan-KM's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Gagan-KM&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 ## 🔭 Currently Working On:
 **Machine Learning and Data Engineering Projects**
 
