@@ -9,6 +9,14 @@
 
 [![Gagan-KM's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Gagan-KM&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+![GitHub Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gagan-KM&theme=github_dark)
+
+![Gagan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gagan-KM&show_icons=true&theme=dark)
+
+![Gagan's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Gagan-KM&theme=github-dark)
+
+![GitHub Snake](https://github.com/Gagan-KM/Gagan-KM/blob/output/github-contribution-grid-snake.svg)
+
 ## 🔭 Currently Working On:
 **Machine Learning and Data Engineering Projects**
 
