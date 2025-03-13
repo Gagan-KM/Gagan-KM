@@ -7,12 +7,12 @@
 **Techniques:** Cloud computing, ETL & ELT Processes, EDA  
 **Hard Skills:** Web Designing, Machine Learning, Database Management, Data Analysis, Data Warehousing, Data Visualization, Natural Language Processing  
 
-## 🔭 Currently Working at:
-**Robosoft Technologies (Feb/2025 - )**
-- **Trainee Data Analyst**
-  - Working as a Trainee Data Analyst, exited to start a new chapter in this realm 
-
 ## 💼 Work Experience:
+
+**Robosoft Technologies (Feb/2025 - Now)**
+- **Trainee Data Analyst**
+  - Working as a Trainee Data Analyst, exited to start a new chapter in this data analytics realm.
+
 **Insights Co. (07/2024 – 08/2024)**  
 - **Intern**
   - Led the “Financial Sentiment Fusion” project, combining insights from FiQA and Financial PhraseBank to enhance sentiment analysis accuracy, improving predictive modelling in finance.
