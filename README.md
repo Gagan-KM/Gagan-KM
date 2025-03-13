@@ -7,8 +7,10 @@
 **Techniques:** Cloud computing, ETL & ELT Processes, EDA  
 **Hard Skills:** Web Designing, Machine Learning, Database Management, Data Analysis, Data Warehousing, Data Visualization, Natural Language Processing  
 
-## 🔭 Currently Working On:
-**Machine Learning and Data Engineering Projects**
+## 🔭 Currently Working at:
+**Robosoft Technologies (Feb/2025 - )**
+- **Trainee Data Analyst**
+  - Working as a Trainee Data Analyst, exited to start a new chapter in this realm 
 
 ## 💼 Work Experience:
 **Insights Co. (07/2024 – 08/2024)**  
