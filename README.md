@@ -3,7 +3,7 @@
 
 ![Gagan's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Gagan-KM&theme=github-dark&hide_border=true&area=true&custom_title=My%20GitHub%20Activity)
 
-![Gagan's GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=Gagan-KM&theme=dark&hide_border=true)  ![Gagan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gagan-KM&show_icons=true&theme=radical)
+![Gagan's GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=Gagan-KM&theme=dark&hide_border=true)      ![Gagan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gagan-KM&show_icons=true&theme=radical)
 
 ## 🌱 Learning and Growing:
 **Languages:** Python, R, Java, Scala, SQL, C#, C++  
