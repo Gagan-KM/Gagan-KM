@@ -5,6 +5,8 @@
 
 ![Gagan's GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=Gagan-KM&theme=dark&hide_border=true)      ![Gagan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gagan-KM&show_icons=true&theme=radical)
 
+![Gagan's GitHub Graph](https://ghchart.rshah.org/00ff00/Gagan-KM)
+
 ## 🌱 Learning and Growing:
 **Languages:** Python, R, Java, Scala, SQL, C#, C++  
 **Tools:** Jupyter Notebook, Pentaho, Snowflake, RStudio, Excel, PostgresSQL, SQL Server, Power BI, PySpark, Linux, Knime, Apache Hadoop, Apache Kafka  
