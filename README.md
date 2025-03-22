@@ -9,6 +9,10 @@
   <img src="https://ghchart.rshah.org/00ff00/Gagan-KM" alt="Gagan's GitHub Graph" />
 </p>
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gagan-KM&theme=radical" alt="GitHub Profile Summary Card" />
+</p>
+
 ## 🌱 Learning and Growing:
 **Languages:** Python, R, Java, Scala, SQL, C#, C++  
 **Tools:** Jupyter Notebook, Pentaho, Snowflake, RStudio, Excel, PostgresSQL, SQL Server, Power BI, PySpark, Linux, Knime, Apache Hadoop, Apache Kafka  
