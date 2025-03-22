@@ -39,7 +39,7 @@
 </table>
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/00ff00/Gagan-KM" alt="Gagan's GitHub Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gagan-KM&theme=github-dark" alt="Gagan's GitHub Contribution Graph" />
 </p>
 
 <p align="center">
