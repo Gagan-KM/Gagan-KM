@@ -31,7 +31,12 @@
 
 ![Gagan's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Gagan-KM&theme=github-dark&hide_border=true&area=true&custom_title=My%20GitHub%20Activity)
 
-![Gagan's GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=Gagan-KM&theme=dark&hide_border=true)      ![Gagan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gagan-KM&show_icons=true&theme=radical)
+<table>
+  <tr>
+    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=Gagan-KM&theme=dark&hide_border=true" alt="Gagan's GitHub Contributions" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=Gagan-KM&show_icons=true&theme=radical" alt="Gagan's GitHub Stats" /></td>
+  </tr>
+</table>
 
 <p align="center">
   <img src="https://ghchart.rshah.org/00ff00/Gagan-KM" alt="Gagan's GitHub Graph" />
