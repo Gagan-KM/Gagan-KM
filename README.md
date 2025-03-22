@@ -5,7 +5,9 @@
 
 ![Gagan's GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=Gagan-KM&theme=dark&hide_border=true)      ![Gagan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gagan-KM&show_icons=true&theme=radical)
 
-![Gagan's GitHub Graph](https://ghchart.rshah.org/00ff00/Gagan-KM)
+<p align="center">
+  <img src="https://ghchart.rshah.org/00ff00/Gagan-KM" alt="Gagan's GitHub Graph" />
+</p>
 
 ## 🌱 Learning and Growing:
 **Languages:** Python, R, Java, Scala, SQL, C#, C++  
