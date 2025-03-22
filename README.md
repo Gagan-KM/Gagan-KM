@@ -1,6 +1,9 @@
 # 💫 About Me:
 👋 Hello! I'm Gagan K M, originally from Mangalore, Karnataka. I am currently pursuing a Master's in Big Data Analytics and hold a Bachelor's degree in Computer Applications. With extensive hands-on experience in machine learning and data engineering projects, I have a solid foundation in programming, software development, and problem-solving techniques.
 
+![Gagan's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Gagan-KM&theme=github-dark&hide_border=true&area=true&custom_title=My%20GitHub%20Activity)
+
+
 ## 🌱 Learning and Growing:
 **Languages:** Python, R, Java, Scala, SQL, C#, C++  
 **Tools:** Jupyter Notebook, Pentaho, Snowflake, RStudio, Excel, PostgresSQL, SQL Server, Power BI, PySpark, Linux, Knime, Apache Hadoop, Apache Kafka  
