@@ -1,18 +1,6 @@
 # 💫 About Me:
 👋 Hello! I'm Gagan K M, originally from Mangalore, Karnataka. I am currently pursuing a Master's in Big Data Analytics and hold a Bachelor's degree in Computer Applications. With extensive hands-on experience in machine learning and data engineering projects, I have a solid foundation in programming, software development, and problem-solving techniques.
 
-![Gagan's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Gagan-KM&theme=github-dark&hide_border=true&area=true&custom_title=My%20GitHub%20Activity)
-
-![Gagan's GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=Gagan-KM&theme=dark&hide_border=true)      ![Gagan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gagan-KM&show_icons=true&theme=radical)
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/00ff00/Gagan-KM" alt="Gagan's GitHub Graph" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gagan-KM&theme=radical" alt="GitHub Profile Summary Card" />
-</p>
-
 ## 🌱 Learning and Growing:
 **Languages:** Python, R, Java, Scala, SQL, C#, C++  
 **Tools:** Jupyter Notebook, Pentaho, Snowflake, RStudio, Excel, PostgresSQL, SQL Server, Power BI, PySpark, Linux, Knime, Apache Hadoop, Apache Kafka  
@@ -41,14 +29,17 @@
 - **Bachelors of Computer Application** (11/2020 - 08/2023)  
   - Mangalore University
 
-## 📄 Certifications:
-- Snowflake Masterclass – Snowflake Cloud
-- PythonX Certification - Advanced Python Programming Techniques
-- Data Warehousing Masterclass – Data Warehouse Principles and Workflow
-- Certification in Big Data Analytics (Apache Hadoop, Spark, data processing methods)
-- Python-based Data Visualization Certification (IBM) - Matplotlib, Seaborn
-- Microsoft Power BI Certification (Infosys) - Interactive data dashboards and reports
-- Machine Learning in Python Certification - Algorithms and model implementation (Scikit-Learn, TensorFlow, Dask)
+![Gagan's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Gagan-KM&theme=github-dark&hide_border=true&area=true&custom_title=My%20GitHub%20Activity)
+
+![Gagan's GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=Gagan-KM&theme=dark&hide_border=true)      ![Gagan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gagan-KM&show_icons=true&theme=radical)
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/00ff00/Gagan-KM" alt="Gagan's GitHub Graph" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gagan-KM&theme=radical" alt="GitHub Profile Summary Card" />
+</p>
 
 ## 💡 Interests:
 - Designing and optimizing scalable data pipelines and ETL processes for efficient data engineering.
@@ -90,13 +81,6 @@ Thank you for visiting my profile. I look forward to connecting with you!
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%2343B02A.svg?style=for-the-badge&logo=python&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-%2343B02A.svg?style=for-the-badge&logo=python&logoColor=white)
-
-## 📊 GitHub Stats:
-![GitHub Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gagan-KM&theme=github_dark)
-
-![Gagan's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Gagan-KM&theme=github-dark)
-
-![Gagan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gagan-KM&show_icons=true&theme=radical)
 
 ## 🏆 GitHub Trophies
 ![trophy](https://github-profile-trophy.vercel.app/?username=Gagan-KM&theme=dracula)
