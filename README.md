@@ -91,15 +91,30 @@ Thank you for visiting my profile. I look forward to connecting with you!
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%2343B02A.svg?style=for-the-badge&logo=python&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-%2343B02A.svg?style=for-the-badge&logo=python&logoColor=white)
 
-## 🏆 GitHub Trophies
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gagan-KM&show_icons=true&theme=radical)
-
-## ✍️ Random Dev Quote
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=%23F75C7E&size=22&center=true&vCenter=true&lines=💻+Code+more%2C+Sleep+less!;🚀+Keep+learning%2C+Keep+building!;🔥+Debugging+is+an+Art!)
-
-## 🔝 Top Contributed Repo
-![GitHub Extra Pins](https://github-readme-stats.vercel.app/api/pin/?username=Gagan-KM&repo=your-repo-name&theme=radical)
-
-## 😂 Random Dev Meme
-![Dev Meme](https://api.dev.to/memes/random)
+<table>
+  <tr>
+    <td>🏆 <b>GitHub Trophies</b></td>
+    <td>✍️ <b>Random Dev Quote</b></td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://github-profile-trophy.vercel.app/?username=Gagan-KM&theme=dracula" alt="GitHub Trophies">
+    </td>
+    <td>
+      <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote">
+    </td>
+  </tr>
+  <tr>
+    <td>🔝 <b>Top Contributed Repo</b></td>
+    <td>😂 <b>Random Dev Meme</b></td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gagan-KM&theme=radical&layout=compact" alt="Top Contributed Repo">
+    </td>
+    <td>
+      <img src="https://readme-jokes.vercel.app/api?theme=radical" alt="Random Dev Meme">
+    </td>
+  </tr>
+</table>
 
