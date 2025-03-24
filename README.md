@@ -3,6 +3,10 @@
 
 ![Gagan's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Gagan-KM&theme=github-dark&hide_border=true&area=true&custom_title=My%20GitHub%20Activity)
 
+<p align="center">
+  <img src="https://ghchart.rshah.org/228B22/Gagan-KM" alt="Gagan's GitHub Graph" />
+</p>
+
 ## 🌱 Learning and Growing:
 **Languages:** Python, R, Java, Scala, SQL, C#, C++  
 **Tools:** Jupyter Notebook, Pentaho, Snowflake, RStudio, Excel, PostgresSQL, SQL Server, Power BI, PySpark, Linux, Knime, Apache Hadoop, Apache Kafka  
@@ -31,18 +35,12 @@
 - **Bachelors of Computer Application** (11/2020 - 08/2023)  
   - Mangalore University
 
-![Gagan's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Gagan-KM&theme=github-dark&hide_border=true&area=true&custom_title=My%20GitHub%20Activity)
-
 <table>
   <tr>
     <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=Gagan-KM&theme=dark&hide_border=true" alt="Gagan's GitHub Contributions" /></td>
     <td><img src="https://github-readme-stats.vercel.app/api?username=Gagan-KM&show_icons=true&theme=radical" alt="Gagan's GitHub Stats" /></td>
   </tr>
 </table>
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/228B22/Gagan-KM" alt="Gagan's GitHub Graph" />
-</p>
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gagan-KM&theme=radical" alt="GitHub Profile Summary Card" />
