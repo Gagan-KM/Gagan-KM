@@ -88,13 +88,14 @@ Thank you for visiting my profile. I look forward to connecting with you!
 ![Seaborn](https://img.shields.io/badge/Seaborn-%2343B02A.svg?style=for-the-badge&logo=python&logoColor=white)
 
 ## 🏆 GitHub Trophies
-![trophy](https://github-profile-trophy.vercel.app/?username=Gagan-KM&theme=dracula)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gagan-KM&show_icons=true&theme=radical)
 
 ## ✍️ Random Dev Quote
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=%23F75C7E&size=22&center=true&vCenter=true&lines=💻+Code+more%2C+Sleep+less!;🚀+Keep+learning%2C+Keep+building!;🔥+Debugging+is+an+Art!)
 
 ## 🔝 Top Contributed Repo
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gagan-KM&theme=radical&layout=compact)
+![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Gagan-KM&theme=radical)
 
 ## 😂 Random Dev Meme
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=radical)
+![Dev Meme](https://api.dev.to/memes/random)
+
