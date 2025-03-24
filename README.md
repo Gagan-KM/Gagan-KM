@@ -1,6 +1,10 @@
 # 💫 About Me:
 👋 Hello! I'm Gagan K M, originally from Mangalore, Karnataka. I am currently pursuing a Master's in Big Data Analytics and hold a Bachelor's degree in Computer Applications. With extensive hands-on experience in machine learning and data engineering projects, I have a solid foundation in programming, software development, and problem-solving techniques.
 
+<p align="center">
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=%23F75C7E&size=22&center=true&vCenter=true&lines=💻+Code+more%2C+Sleep+less!;🚀+Keep+learning%2C+Keep+building!;🔥+Debugging+is+an+Art!)
+</p>
+
 ![Gagan's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Gagan-KM&theme=github-dark&hide_border=true&area=true&custom_title=My%20GitHub%20Activity)
 
 <p align="center">
@@ -94,7 +98,7 @@ Thank you for visiting my profile. I look forward to connecting with you!
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=%23F75C7E&size=22&center=true&vCenter=true&lines=💻+Code+more%2C+Sleep+less!;🚀+Keep+learning%2C+Keep+building!;🔥+Debugging+is+an+Art!)
 
 ## 🔝 Top Contributed Repo
-![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Gagan-KM&theme=radical)
+![GitHub Extra Pins](https://github-readme-stats.vercel.app/api/pin/?username=Gagan-KM&repo=your-repo-name&theme=radical)
 
 ## 😂 Random Dev Meme
 ![Dev Meme](https://api.dev.to/memes/random)
