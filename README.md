@@ -32,15 +32,11 @@
 <div align="center">
   <table>
     <tr>
-      <td><img src="https://github.com/Gagan-KM/Gagan-KM/blob/output/github-contribution-grid-snake.svg" alt="Gagan's Contribution Snake"/></td>
+      <td> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gagan-KM&theme=radical" alt="GitHub Profile Summary Card" /></td>
       <td><img src="https://github-readme-stats.vercel.app/api?username=Gagan-KM&show_icons=true&theme=radical" alt="Gagan's GitHub Stats" /></td>
     </tr>
   </table>
 </div>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gagan-KM&theme=radical" alt="GitHub Profile Summary Card" />
-</p>
 
 ## 💡 Interests:
 - Designing and optimizing scalable data pipelines and ETL processes for efficient data engineering.
