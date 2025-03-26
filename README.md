@@ -31,7 +31,7 @@
 
 <table>
   <tr>
-    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=Gagan-KM&theme=dark&hide_border=true" alt="Gagan's GitHub Contributions" /></td>
+    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=Gagan-KM&theme=dark&hide_border=true" alt="Gagan's GitHub Contributions"/></td>
     <td><img src="https://github-readme-stats.vercel.app/api?username=Gagan-KM&show_icons=true&theme=radical" alt="Gagan's GitHub Stats" /></td>
   </tr>
 </table>
