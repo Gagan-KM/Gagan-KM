@@ -29,12 +29,14 @@
 - **Bachelors of Computer Application** (11/2020 - 08/2023)  
   - Mangalore University
 
-<table>
-  <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gagan-KM&layout=compact&theme=radical" alt="Gagan's Top Languages"/></td>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=Gagan-KM&show_icons=true&theme=radical" alt="Gagan's GitHub Stats" /></td>
-  </tr>
-</table>
+<div align="center">
+  <table>
+    <tr>
+      <td><img src="https://github-profile-trophy.vercel.app/?username=Gagan-KM&theme=radical&no-frame=true&column=3" alt="Gagan's GitHub Trophies"/></td>
+      <td><img src="https://github-readme-stats.vercel.app/api?username=Gagan-KM&show_icons=true&theme=radical" alt="Gagan's GitHub Stats" /></td>
+    </tr>
+  </table>
+</div>
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gagan-KM&theme=radical" alt="GitHub Profile Summary Card" />
