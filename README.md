@@ -62,30 +62,29 @@ Thank you for visiting my profile. I look forward to connecting with you!
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45"/><br>SQL</td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="45"/><br>C#</td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="45"/><br>Jupyter</td>
-    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Pentaho_Logo_2021.svg/120px-Pentaho_Logo_2021.svg.png" width="45"/><br>Pentaho</td>
-    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/en/thumb/2/20/Snowflake_Logo.svg/120px-Snowflake_Logo.svg.png" width="45"/><br>Snowflake</td>
+    <td align="center"><img src="https://img.shields.io/badge/Pentaho-%234B8DB3.svg?style=for-the-badge&logo=pentaho&logoColor=white" width="120"/><br>Pentaho</td>
+    <td align="center"><img src="https://img.shields.io/badge/Snowflake-%2300CFFF.svg?style=for-the-badge&logo=snowflake&logoColor=white" width="120"/><br>Snowflake</td>
   </tr>
   <tr>
-    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/RStudio-Logo.svg/120px-RStudio-Logo.svg.png" width="45"/><br>RStudio</td>
-    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/en/thumb/8/86/Microsoft_Excel_2013-2019_logo.svg/120px-Microsoft_Excel_2013-2019_logo.svg.png" width="45"/><br>Excel</td>
+    <td align="center"><img src="https://img.shields.io/badge/RStudio-%23007ACC.svg?style=for-the-badge&logo=rstudio&logoColor=white" width="120"/><br>RStudio</td>
+    <td align="center"><img src="https://img.shields.io/badge/Excel-%23217346.svg?style=for-the-badge&logo=microsoft-excel&logoColor=white" width="120"/><br>Excel</td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45"/><br>PostgreSQL</td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45"/><br>MySQL</td>
-    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/120px-New_Power_BI_Logo.svg.png" width="45"/><br>Power BI</td>
+    <td align="center"><img src="https://img.shields.io/badge/Power%20BI-%23F2C811.svg?style=for-the-badge&logo=power-bi&logoColor=black" width="120"/><br>Power BI</td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="45"/><br>PySpark</td>
-    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Knime_logo.svg/120px-Knime_logo.svg.png" width="45"/><br>Knime</td>
+    <td align="center"><img src="https://img.shields.io/badge/Knime-%23FCC624.svg?style=for-the-badge&logo=knime&logoColor=black" width="120"/><br>Knime</td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="45"/><br>Hadoop</td>
   </tr>
   <tr>
-    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Apache_kafka.svg/120px-Apache_kafka.svg.png" width="45"/><br>Kafka</td>
+    <td align="center"><img src="https://img.shields.io/badge/Kafka-%2300796D.svg?style=for-the-badge&logo=apache-kafka&logoColor=white" width="120"/><br>Kafka</td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45"/><br>Linux</td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="45"/><br>scikit-learn</td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="45"/><br>TensorFlow</td>
     <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Matplotlib_icon.svg/120px-Matplotlib_icon.svg.png" width="45"/><br>Matplotlib</td>
     <td align="center"><img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" width="120"/><br>Seaborn</td>
-    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/OpenAI_Logo.svg/120px-OpenAI_Logo.svg.png" width="45"/><br>GenAI</td>
+    <td align="center"><img src="https://img.shields.io/badge/GenAI-%23FF4500.svg?style=for-the-badge&logo=OpenAI&logoColor=white" width="120"/><br>GenAI</td>
   </tr>
 </table>
-
 
 
 
