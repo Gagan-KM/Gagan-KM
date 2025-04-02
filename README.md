@@ -87,7 +87,7 @@ Thank you for visiting my profile. I look forward to connecting with you!
 </table>
 
 
-
+<h2 align="center">🔥My GitHub Stats</h2>
 <table>
   <tr>
     <td>🏆 <b>GitHub Trophies</b></td>
