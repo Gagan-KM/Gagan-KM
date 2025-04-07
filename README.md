@@ -11,6 +11,19 @@
   <img src="https://ghchart.rshah.org/228B22/Gagan-KM" alt="Gagan's GitHub Graph" />
 </p>
 
+<!--
+## 🌱 Learning and Growing:
+**Languages:** Python, R, Scala, SQL, C# 
+**Tools:** Jupyter Notebook, Pentaho, Snowflake, RStudio, Excel, PostgresSQL, Power BI, PySpark, Linux, Knime, Apache Hadoop, Apache Kafka  
+**Techniques:** Cloud computing, ETL & ELT Processes, EDA  
+**Hard Skills:** Web Designing, Machine Learning, Database Management, Data Analysis, Data Warehousing, Data Visualization, Natural Language Processing  
+-->
+## 💼 Work Experience:
+
+**Robosoft Technologies (Feb/2025 - Now)**
+- **Trainee Data Analyst**
+  - Working as a Trainee Data Analyst, exited to start a new chapter in this data analytics realm.
+    
 <h2 align="center">🚀 Tech Stack</h2>
 
 <table align="center">
@@ -49,19 +62,6 @@
     <br>Google Tag Manager</td>
   </tr>
 </table>
-
-<!--
-## 🌱 Learning and Growing:
-**Languages:** Python, R, Scala, SQL, C# 
-**Tools:** Jupyter Notebook, Pentaho, Snowflake, RStudio, Excel, PostgresSQL, Power BI, PySpark, Linux, Knime, Apache Hadoop, Apache Kafka  
-**Techniques:** Cloud computing, ETL & ELT Processes, EDA  
-**Hard Skills:** Web Designing, Machine Learning, Database Management, Data Analysis, Data Warehousing, Data Visualization, Natural Language Processing  
--->
-## 💼 Work Experience:
-
-**Robosoft Technologies (Feb/2025 - Now)**
-- **Trainee Data Analyst**
-  - Working as a Trainee Data Analyst, exited to start a new chapter in this data analytics realm.
 
 ## 🎓 Education:
 - **Masters in Big Data Analytics** (08/2023 - Present, Expected Graduation: 08/2025)  
