@@ -86,6 +86,8 @@ Thank you for visiting my profile. I look forward to connecting with you!
     <td align="center"><img src="https://img.shields.io/badge/Google%20Analytics-%23FABB05.svg?style=for-the-badge&logo=googleanalytics&logoColor=black" width="120"/><br>Google Analytics</td>
   </tr>
   <tr>
+    <td align="center"><img src="https://www.gstatic.com/analytics-suite/header/suite/v2/ic_analytics.svg" width="45"/><br>Google Analytics</td>
+    <td align="center"><img src="https://www.gstatic.com/analytics-suite/header/suite/v2/ic_tag_manager.svg" width="45"/><br>Google Tag Manager</td>
     <td align="center"><img src="https://img.shields.io/badge/Google%20Tag%20Manager-%234285F4.svg?style=for-the-badge&logo=googletagmanager&logoColor=white" width="120"/><br>Google Tag Manager</td>
   </tr>
 </table>
