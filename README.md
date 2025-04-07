@@ -1,8 +1,8 @@
-# 💫 About Me:
-👋 Hello! I'm Gagan K M, originally from Mangalore, Karnataka. I am currently pursuing a Master's in Big Data Analytics and hold a Bachelor's degree in Computer Applications. With extensive hands-on experience in machine learning and data engineering projects, I have a solid foundation in programming, software development, and problem-solving techniques.
+# 🌟 About Me:
+👋 Hey there! I'm Gagan K M, originally from Mangalore, Karnataka. I am currently pursuing a Master's in Big Data Analytics and hold a Bachelor's degree in Computer Applications. With extensive hands-on experience in machine learning and data engineering projects, I have a solid foundation in programming, software development, and problem-solving techniques.
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=%23F75C7E&size=22&center=true&vCenter=true&lines=💻+Code+more%2C+Sleep+less!;🚀+Keep+learning%2C+Keep+building!;🔥+Debugging+is+an+Art!" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=%23F75C7E&size=22&center=true&vCenter=true&lines=🧠+Code+more%2C+Sleep+less!;🚀+Keep+learning%2C+Keep+building!;🎯+Debugging+is+an+Art!" alt="Typing SVG">
 </p>
 
 ![Gagan's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Gagan-KM&theme=github-dark&hide_border=true&area=true&custom_title=My%20GitHub%20Activity)
@@ -11,20 +11,13 @@
   <img src="https://ghchart.rshah.org/228B22/Gagan-KM" alt="Gagan's GitHub Graph" />
 </p>
 
-<!--
-## 🌱 Learning and Growing:
-**Languages:** Python, R, Scala, SQL, C# 
-**Tools:** Jupyter Notebook, Pentaho, Snowflake, RStudio, Excel, PostgresSQL, Power BI, PySpark, Linux, Knime, Apache Hadoop, Apache Kafka  
-**Techniques:** Cloud computing, ETL & ELT Processes, EDA  
-**Hard Skills:** Web Designing, Machine Learning, Database Management, Data Analysis, Data Warehousing, Data Visualization, Natural Language Processing  
--->
 ## 💼 Work Experience:
 
 **Robosoft Technologies (Feb/2025 - Now)**
 - **Trainee Data Analyst**
   - Working as a Trainee Data Analyst, exited to start a new chapter in this data analytics realm.
     
-<h2 align="center">🚀 Tech Stack</h2>
+<h2 align="center">⚙️ Tech Stack</h2>
 
 <table align="center">
   <tr>
@@ -59,14 +52,13 @@
   </tr>
   <tr>
     <td align="center"><img src="https://www.gstatic.com/analytics-suite/header/suite/v2/ic_tag_manager.svg" width="45"/><br>Google Tag Manager</td>
-    <br>Google Tag Manager</td>
   </tr>
 </table>
 
 ## 🎓 Education:
-- **Masters in Big Data Analytics** (08/2023 - Present, Expected Graduation: 08/2025)  
-  - St Aloysius University
-- **Bachelors of Computer Application** (11/2020 - 08/2023)  
+- 🎓 **Masters in Big Data Analytics** (08/2023 - Present, Expected Graduation: 08/2025)  
+  - St Aloysius University  
+- 🎓 **Bachelors of Computer Application** (11/2020 - 08/2023)  
   - Mangalore University
 
 <div align="center">
@@ -78,25 +70,25 @@
   </table>
 </div>
 
-## 💡 Interests:
-- Designing and optimizing scalable data pipelines and ETL processes for efficient data engineering.
-- Developing and deploying machine learning models to solve complex predictive analytics problems.
-- Engaging in continuous learning of cutting-edge technologies in cloud computing and big data analytics.
-- Applying data visualization and exploratory data analysis (EDA) techniques to uncover actionable insights and enhance decision-making.
+## 🌈 Interests:
+- 🔧 Designing and optimizing scalable data pipelines and ETL processes for efficient data engineering.  
+- 🧠 Developing and deploying machine learning models to solve complex predictive analytics problems.  
+- 📚 Engaging in continuous learning of cutting-edge technologies in cloud computing and big data analytics.  
+- 📊 Applying data visualization and exploratory data analysis (EDA) techniques to uncover actionable insights and enhance decision-making.
 
-## 📫 Get in Touch:
+## 📬 Get in Touch:
 
-- [LinkedIn](https://www.linkedin.com/in/gagan-k-m-a0580b285)
-- [GitHub](https://www.github.com/Gagan-KM)
-- **Email:** gagankm72@gmail.com
+- [🔗 LinkedIn](https://www.linkedin.com/in/gagan-k-m-a0580b285)  
+- [💻 GitHub](https://www.github.com/Gagan-KM)  
+- ✉️ **Email:** gagankm72@gmail.com
 
-Thank you for visiting my profile. I look forward to connecting with you!
+Thanks for stopping by! Let's connect and innovate together 🚀
 
-<h2 align="center">🔥My GitHub Stats</h2>
+<h2 align="center">📊 My GitHub Stats</h2>
 <table>
   <tr>
-    <td>🏆 <b>GitHub Trophies</b></td>
-    <td>✍️ <b>Random Dev Quote</b></td>
+    <td>🏅 <b>GitHub Trophies</b></td>
+    <td>💬 <b>Random Dev Quote</b></td>
   </tr>
   <tr>
     <td>
@@ -107,8 +99,8 @@ Thank you for visiting my profile. I look forward to connecting with you!
     </td>
   </tr>
   <tr>
-    <td>🔝 <b>Top Contributed Repo</b></td>
-    <td>😂 <b>Random Dev Meme</b></td>
+    <td>📌 <b>Top Contributed Repo</b></td>
+    <td>😄 <b>Random Dev Meme</b></td>
   </tr>
   <tr>
     <td>
@@ -119,4 +111,3 @@ Thank you for visiting my profile. I look forward to connecting with you!
     </td>
   </tr>
 </table>
-
