@@ -83,12 +83,11 @@ Thank you for visiting my profile. I look forward to connecting with you!
     <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Matplotlib_icon.svg/120px-Matplotlib_icon.svg.png" width="45"/><br>Matplotlib</td>
     <td align="center"><img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" width="120"/><br>Seaborn</td>
     <td align="center"><img src="https://img.shields.io/badge/GenAI-%23FF4500.svg?style=for-the-badge&logo=OpenAI&logoColor=white" width="120"/><br>GenAI</td>
-    <td align="center"><img src="https://img.shields.io/badge/Google%20Analytics-%23FABB05.svg?style=for-the-badge&logo=googleanalytics&logoColor=black" width="120"/><br>Google Analytics</td>
+    <td align="center"><img src="https://www.gstatic.com/analytics-suite/header/suite/v2/ic_analytics.svg" width="45"/><br>Google Analytics</td>
   </tr>
   <tr>
-    <td align="center"><img src="https://www.gstatic.com/analytics-suite/header/suite/v2/ic_analytics.svg" width="45"/><br>Google Analytics</td>
     <td align="center"><img src="https://www.gstatic.com/analytics-suite/header/suite/v2/ic_tag_manager.svg" width="45"/><br>Google Tag Manager</td>
-    <td align="center"><img src="https://img.shields.io/badge/Google%20Tag%20Manager-%234285F4.svg?style=for-the-badge&logo=googletagmanager&logoColor=white" width="120"/><br>Google Tag Manager</td>
+    <br>Google Tag Manager</td>
   </tr>
 </table>
 
