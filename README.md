@@ -88,6 +88,8 @@ Thank you for visiting my profile. I look forward to connecting with you!
   <tr>
     <td align="center"><img src="https://www.gstatic.com/analytics-suite/header/suite/v2/ic_tag_manager.svg" width="45"/><br>Google Tag Manager</td>
     <br>Google Tag Manager</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/excel/excel-original.svg" width="45"/><br>Excel</td>
+<td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Microsoft_Power_BI_Logo.svg" width="45"/><br>Power BI</td>
   </tr>
 </table>
 
