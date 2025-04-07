@@ -11,47 +11,6 @@
   <img src="https://ghchart.rshah.org/228B22/Gagan-KM" alt="Gagan's GitHub Graph" />
 </p>
 
-## 🌱 Learning and Growing:
-**Languages:** Python, R, Scala, SQL, C# 
-**Tools:** Jupyter Notebook, Pentaho, Snowflake, RStudio, Excel, PostgresSQL, Power BI, PySpark, Linux, Knime, Apache Hadoop, Apache Kafka  
-**Techniques:** Cloud computing, ETL & ELT Processes, EDA  
-**Hard Skills:** Web Designing, Machine Learning, Database Management, Data Analysis, Data Warehousing, Data Visualization, Natural Language Processing  
-
-## 💼 Work Experience:
-
-**Robosoft Technologies (Feb/2025 - Now)**
-- **Trainee Data Analyst**
-  - Working as a Trainee Data Analyst, exited to start a new chapter in this data analytics realm.
-
-## 🎓 Education:
-- **Masters in Big Data Analytics** (08/2023 - Present, Expected Graduation: 08/2025)  
-  - St Aloysius University
-- **Bachelors of Computer Application** (11/2020 - 08/2023)  
-  - Mangalore University
-
-<div align="center">
-  <table>
-    <tr>
-      <td> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gagan-KM&theme=radical" alt="GitHub Profile Summary Card" /></td>
-      <td><img src="https://github-readme-stats.vercel.app/api?username=Gagan-KM&show_icons=true&theme=radical" alt="Gagan's GitHub Stats" /></td>
-    </tr>
-  </table>
-</div>
-
-## 💡 Interests:
-- Designing and optimizing scalable data pipelines and ETL processes for efficient data engineering.
-- Developing and deploying machine learning models to solve complex predictive analytics problems.
-- Engaging in continuous learning of cutting-edge technologies in cloud computing and big data analytics.
-- Applying data visualization and exploratory data analysis (EDA) techniques to uncover actionable insights and enhance decision-making.
-
-## 📫 Get in Touch:
-
-- [LinkedIn](https://www.linkedin.com/in/gagan-k-m-a0580b285)
-- [GitHub](https://www.github.com/Gagan-KM)
-- **Email:** gagankm72@gmail.com
-
-Thank you for visiting my profile. I look forward to connecting with you!
-
 <h2 align="center">🚀 Tech Stack</h2>
 
 <table align="center">
@@ -91,7 +50,47 @@ Thank you for visiting my profile. I look forward to connecting with you!
   </tr>
 </table>
 
+<!--
+## 🌱 Learning and Growing:
+**Languages:** Python, R, Scala, SQL, C# 
+**Tools:** Jupyter Notebook, Pentaho, Snowflake, RStudio, Excel, PostgresSQL, Power BI, PySpark, Linux, Knime, Apache Hadoop, Apache Kafka  
+**Techniques:** Cloud computing, ETL & ELT Processes, EDA  
+**Hard Skills:** Web Designing, Machine Learning, Database Management, Data Analysis, Data Warehousing, Data Visualization, Natural Language Processing  
+-->
+## 💼 Work Experience:
 
+**Robosoft Technologies (Feb/2025 - Now)**
+- **Trainee Data Analyst**
+  - Working as a Trainee Data Analyst, exited to start a new chapter in this data analytics realm.
+
+## 🎓 Education:
+- **Masters in Big Data Analytics** (08/2023 - Present, Expected Graduation: 08/2025)  
+  - St Aloysius University
+- **Bachelors of Computer Application** (11/2020 - 08/2023)  
+  - Mangalore University
+
+<div align="center">
+  <table>
+    <tr>
+      <td> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gagan-KM&theme=radical" alt="GitHub Profile Summary Card" /></td>
+      <td><img src="https://github-readme-stats.vercel.app/api?username=Gagan-KM&show_icons=true&theme=radical" alt="Gagan's GitHub Stats" /></td>
+    </tr>
+  </table>
+</div>
+
+## 💡 Interests:
+- Designing and optimizing scalable data pipelines and ETL processes for efficient data engineering.
+- Developing and deploying machine learning models to solve complex predictive analytics problems.
+- Engaging in continuous learning of cutting-edge technologies in cloud computing and big data analytics.
+- Applying data visualization and exploratory data analysis (EDA) techniques to uncover actionable insights and enhance decision-making.
+
+## 📫 Get in Touch:
+
+- [LinkedIn](https://www.linkedin.com/in/gagan-k-m-a0580b285)
+- [GitHub](https://www.github.com/Gagan-KM)
+- **Email:** gagankm72@gmail.com
+
+Thank you for visiting my profile. I look forward to connecting with you!
 
 <h2 align="center">🔥My GitHub Stats</h2>
 <table>
