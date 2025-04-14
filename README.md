@@ -3,7 +3,7 @@
 </p>
 
 # 🌟 About Me:
-👋 Hey there! I'm Gagan K M, originally from Mangalore, Karnataka. I am currently pursuing a Master's in Big Data Analytics and hold a Bachelor's degree in Computer Applications. With extensive hands-on experience in machine learning and data engineering projects, I have a solid foundation in programming, software development, and problem-solving techniques.
+👋 Hey there! I'm Gagan K M, currently working as a data analyst. I'm originally from Mangalore, Karnataka, pursuing a Master’s in Big Data Analytics while holding a Bachelor’s degree in Computer Applications. With extensive hands-on experience in machine learning and data engineering projects, I have developed a solid foundation in programming, software development, and problem-solving techniques.
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=%23F75C7E&size=22&center=true&vCenter=true&lines=🧠+Code+more%2C+Sleep+less!;🚀+Keep+learning%2C+Keep+building!;🎯+Debugging+is+an+Art!;💡+Eat%2C+Sleep%2C+Code%2C+Repeat!;👨‍💻+Turning+coffee+into+code!;📈+One+commit+closer+to+greatness!;🌐+Build+locally%2C+deploy+globally!" alt="Typing SVG">
@@ -59,7 +59,7 @@
 ---
 -->
 
-<h2 align="center"> Data Analytics Tech Stack</h2>
+<h2 align="center"> Tech Stack</h2>
 
 ### Programming Languages
 <table align="center">
@@ -68,14 +68,12 @@
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="45"/><br>R</td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scala/scala-original.svg" width="45"/><br>Scala</td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45"/><br>SQL</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45"/><br>PostgreSQL</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45"/><br>MySQL</td>
   </tr>
 </table>
 
 ---
 
-### Data Analytics & BI Tools
+### Business Intelligence & Data Tools
 <table align="center">
   <tr>
     <td align="center"><img src="https://img.shields.io/badge/Power%20BI-%23F2C811.svg?style=for-the-badge&logo=power-bi&logoColor=black" width="120"/><br>Power BI</td>
@@ -85,6 +83,8 @@
     <td align="center"><img src="https://img.shields.io/badge/RStudio-%23007ACC.svg?style=for-the-badge&logo=rstudio&logoColor=white" width="120"/><br>RStudio</td>
     <td align="center"><img src="https://img.shields.io/badge/Knime-%23FCC624.svg?style=for-the-badge&logo=knime&logoColor=black" width="120"/><br>KNIME</td>
     <td align="center"><img src="https://img.shields.io/badge/Pentaho-%234B8DB3.svg?style=for-the-badge&logo=pentaho&logoColor=white" width="120"/><br>Pentaho</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45"/><br>PostgreSQL</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45"/><br>MySQL</td>
   </tr>
 </table>
 
