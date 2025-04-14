@@ -2,7 +2,7 @@
 👋 Hey there! I'm Gagan K M, originally from Mangalore, Karnataka. I am currently pursuing a Master's in Big Data Analytics and hold a Bachelor's degree in Computer Applications. With extensive hands-on experience in machine learning and data engineering projects, I have a solid foundation in programming, software development, and problem-solving techniques.
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=%23F75C7E&size=22&center=true&vCenter=true&lines=🧠+Code+more%2C+Sleep+less!;🚀+Keep+learning%2C+Keep+building!;🎯+Debugging+is+an+Art!" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=%23F75C7E&size=22&center=true&vCenter=true&lines=🧠+Code+more%2C+Sleep+less!;🚀+Keep+learning%2C+Keep+building!;🎯+Debugging+is+an+Art!;💡+Eat%2C+Sleep%2C+Code%2C+Repeat!;👨‍💻+Turning+coffee+into+code!;📈+One+commit+closer+to+greatness!;🌐+Build+locally%2C+deploy+globally!" alt="Typing SVG">
 </p>
 
 ![Gagan's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Gagan-KM&theme=github-dark&hide_border=true&area=true&custom_title=My%20GitHub%20Activity)
