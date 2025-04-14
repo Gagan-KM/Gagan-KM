@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=4CAF50&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B+I'm+Gagan+K+M;Trainee+Data+Analyst+%F0%9F%93%88;Age%3A+22+%F0%9F%92%AB" alt="Intro Typing SVG" />
+</p>
+
 # 🌟 About Me:
 👋 Hey there! I'm Gagan K M, originally from Mangalore, Karnataka. I am currently pursuing a Master's in Big Data Analytics and hold a Bachelor's degree in Computer Applications. With extensive hands-on experience in machine learning and data engineering projects, I have a solid foundation in programming, software development, and problem-solving techniques.
 
@@ -5,7 +9,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=%23F75C7E&size=22&center=true&vCenter=true&lines=🧠+Code+more%2C+Sleep+less!;🚀+Keep+learning%2C+Keep+building!;🎯+Debugging+is+an+Art!;💡+Eat%2C+Sleep%2C+Code%2C+Repeat!;👨‍💻+Turning+coffee+into+code!;📈+One+commit+closer+to+greatness!;🌐+Build+locally%2C+deploy+globally!" alt="Typing SVG">
 </p>
 
-![Gagan's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Gagan-KM&theme=github-dark&hide_border=true&area=true&custom_title=My%20GitHub%20Activity)
+![My GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Gagan-KM&theme=github-dark&hide_border=true&area=true&custom_title=My%20GitHub%20Activity)
 
 <p align="center">
   <img src="https://ghchart.rshah.org/228B22/Gagan-KM" alt="Gagan's GitHub Graph" />
@@ -136,11 +140,12 @@
   </table>
 </div>
 
-## 🌈 Interests:
-- 🔧 Designing and optimizing scalable data pipelines and ETL processes for efficient data engineering.  
-- 🧠 Developing and deploying machine learning models to solve complex predictive analytics problems.  
-- 📚 Engaging in continuous learning of cutting-edge technologies in cloud computing and big data analytics.  
-- 📊 Applying data visualization and exploratory data analysis (EDA) techniques to uncover actionable insights and enhance decision-making.
+## 🌈 My Interests:
+- 📊 Analyzing data to discover trends and deliver actionable business insights.  
+- 🛠️ Building and managing scalable data pipelines and ETL workflows.  
+- 📈 Creating clear and interactive dashboards for data-driven storytelling.  
+- 🧱 Designing efficient data architectures and optimizing data storage solutions.  
+- 🤝 Collaborating across teams to turn raw data into valuable outcomes.
 
 ## 📬 Get in Touch:
 
