@@ -78,6 +78,7 @@
   </tr>
 </table>
 ___
+
 ### Business Intelligence, Analytics & Database Tools
 <table align="center">
   <tr>
@@ -93,6 +94,7 @@ ___
   </tr>
 </table>
 ___
+
 ### Big Data, Cloud & Streaming Technologies
 <table align="center">
   <tr>
@@ -103,6 +105,7 @@ ___
   </tr>
 </table>
 ___
+
 ### Machine Learning, Visualization & Generative AI
 <table align="center">
   <tr>
@@ -115,6 +118,7 @@ ___
   </tr>
 </table>
 ___
+
 ### Development Platforms & Tools
 <table align="center">
   <tr>
