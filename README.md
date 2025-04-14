@@ -77,7 +77,6 @@
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="45"/><br>C#</td>
   </tr>
 </table>
-___________________________________________________________________________________________________________________________________
 
 ### Business Intelligence, Analytics & Database Tools
 <table align="center">
@@ -93,7 +92,6 @@ ________________________________________________________________________________
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45"/><br>MySQL</td>
   </tr>
 </table>
-___________________________________________________________________________________________________________________________________
 
 ### Big Data, Cloud & Streaming Technologies
 <table align="center">
@@ -104,7 +102,6 @@ ________________________________________________________________________________
     <td align="center"><img src="https://img.shields.io/badge/Snowflake-%2300CFFF.svg?style=for-the-badge&logo=snowflake&logoColor=white" width="120"/><br>Snowflake</td>
   </tr>
 </table>
-___________________________________________________________________________________________________________________________________
 
 ### Machine Learning, Visualization & Generative AI
 <table align="center">
@@ -117,7 +114,6 @@ ________________________________________________________________________________
     <td align="center"><img src="https://img.shields.io/badge/Plotly-%2300A9E0.svg?style=for-the-badge&logo=plotly&logoColor=white" width="120"/><br>Plotly</td>
   </tr>
 </table>
-___________________________________________________________________________________________________________________________________
 
 ### Development Platforms & Tools
 <table align="center">
