@@ -77,8 +77,6 @@
   </tr>
 </table>
 
----
-
 ### Business Intelligence, Analytics & Database Tools
 <table align="center">
   <tr>
@@ -94,8 +92,6 @@
   </tr>
 </table>
 
----
-
 ### Big Data, Cloud & Streaming Technologies
 <table align="center">
   <tr>
@@ -105,8 +101,6 @@
     <td align="center"><img src="https://img.shields.io/badge/Snowflake-%2300CFFF.svg?style=for-the-badge&logo=snowflake&logoColor=white" width="120"/><br>Snowflake</td>
   </tr>
 </table>
-
----
 
 ### Machine Learning, Visualization & Generative AI
 <table align="center">
@@ -119,8 +113,6 @@
     <td align="center"><img src="https://img.shields.io/badge/Plotly-%2300A9E0.svg?style=for-the-badge&logo=plotly&logoColor=white" width="120"/><br>Plotly</td>
   </tr>
 </table>
-
----
 
 ### Development Platforms & Tools
 <table align="center">
