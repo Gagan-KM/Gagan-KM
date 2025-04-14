@@ -2,7 +2,8 @@
 👋 Hey there! I'm Gagan K M, originally from Mangalore, Karnataka. I am currently pursuing a Master's in Big Data Analytics and hold a Bachelor's degree in Computer Applications. With extensive hands-on experience in machine learning and data engineering projects, I have a solid foundation in programming, software development, and problem-solving techniques.
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=%23F75C7E&size=22&center=true&vCenter=true&lines=🧠+Code+more%2C+Sleep+less!;🚀+Keep+learning%2C+Keep+building!;🎯+Debugging+is+an+Art!;💡+Eat%2C+Sleep%2C+Code%2C+Repeat!;👨‍💻+Turning+coffee+into+code!;📈+One+commit+closer+to+greatness!;🌐+Build+locally%2C+deploy+globally!" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=%23F75C7E&size=22&center=true&vCenter=true&lines=🧠+Code+more%2C+Sleep+less!;
+    🚀+Keep+learning%2C+Keep+building!;🎯+Debugging+is+an+Art!;💡+Eat%2C+Sleep%2C+Code%2C+Repeat!;👨‍💻+Turning+coffee+into+code!;📈+One+commit+closer+to+greatness!;🌐+Build+locally%2C+deploy+globally!" alt="Typing SVG">
 </p>
 
 ![Gagan's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Gagan-KM&theme=github-dark&hide_border=true&area=true&custom_title=My%20GitHub%20Activity)
@@ -25,7 +26,7 @@
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="45"/><br>R</td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scala/scala-original.svg" width="45"/><br>Scala</td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45"/><br>SQL</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="45"/><br>C#</td>
+    <td align="center"><img src="https://www.gstatic.com/analytics-suite/header/suite/v2/ic_tag_manager.svg" width="45"/><br>Google Tag Manager</td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="45"/><br>Jupyter</td>
     <td align="center"><img src="https://img.shields.io/badge/Pentaho-%234B8DB3.svg?style=for-the-badge&logo=pentaho&logoColor=white" width="120"/><br>Pentaho</td>
     <td align="center"><img src="https://img.shields.io/badge/Snowflake-%2300CFFF.svg?style=for-the-badge&logo=snowflake&logoColor=white" width="120"/><br>Snowflake</td>
@@ -50,10 +51,75 @@
     <td align="center"><img src="https://img.shields.io/badge/GenAI-%23FF4500.svg?style=for-the-badge&logo=OpenAI&logoColor=white" width="120"/><br>GenAI</td>
     <td align="center"><img src="https://www.gstatic.com/analytics-suite/header/suite/v2/ic_analytics.svg" width="45"/><br>Google Analytics</td>
   </tr>
+</table>
+
+---
+
+<h2 align="center">🧠 Data Analytics Tech Stack</h2>
+
+### 📝 Programming Languages
+<table align="center">
   <tr>
-    <td align="center"><img src="https://www.gstatic.com/analytics-suite/header/suite/v2/ic_tag_manager.svg" width="45"/><br>Google Tag Manager</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/><br>Python</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="45"/><br>R</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scala/scala-original.svg" width="45"/><br>Scala</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45"/><br>SQL</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45"/><br>PostgreSQL</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45"/><br>MySQL</td>
   </tr>
 </table>
+
+---
+
+### 📊 Data Analytics & BI Tools
+<table align="center">
+  <tr>
+    <td align="center"><img src="https://img.shields.io/badge/Power%20BI-%23F2C811.svg?style=for-the-badge&logo=power-bi&logoColor=black" width="120"/><br>Power BI</td>
+    <td align="center"><img src="https://img.shields.io/badge/Excel-%23217346.svg?style=for-the-badge&logo=microsoft-excel&logoColor=white" width="120"/><br>Excel</td>
+    <td align="center"><img src="https://www.gstatic.com/analytics-suite/header/suite/v2/ic_analytics.svg" width="45"/><br>Google Analytics</td>
+    <td align="center"><img src="https://www.gstatic.com/analytics-suite/header/suite/v2/ic_tag_manager.svg" width="45"/><br>Google Tag Manager</td>
+    <td align="center"><img src="https://img.shields.io/badge/RStudio-%23007ACC.svg?style=for-the-badge&logo=rstudio&logoColor=white" width="120"/><br>RStudio</td>
+    <td align="center"><img src="https://img.shields.io/badge/Knime-%23FCC624.svg?style=for-the-badge&logo=knime&logoColor=black" width="120"/><br>KNIME</td>
+    <td align="center"><img src="https://img.shields.io/badge/Pentaho-%234B8DB3.svg?style=for-the-badge&logo=pentaho&logoColor=white" width="120"/><br>Pentaho</td>
+  </tr>
+</table>
+
+---
+
+### 🧱 Big Data & Cloud Tools
+<table align="center">
+  <tr>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="45"/><br>Hadoop</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="45"/><br>PySpark</td>
+    <td align="center"><img src="https://img.shields.io/badge/Kafka-%2300796D.svg?style=for-the-badge&logo=apache-kafka&logoColor=white" width="120"/><br>Kafka</td>
+    <td align="center"><img src="https://img.shields.io/badge/Snowflake-%2300CFFF.svg?style=for-the-badge&logo=snowflake&logoColor=white" width="120"/><br>Snowflake</td>
+  </tr>
+</table>
+
+---
+
+### 🤖 Machine Learning & Visualization
+<table align="center">
+  <tr>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="45"/><br>scikit-learn</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="45"/><br>TensorFlow</td>
+    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Matplotlib_icon.svg/120px-Matplotlib_icon.svg.png" width="45"/><br>Matplotlib</td>
+    <td align="center"><img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" width="120"/><br>Seaborn</td>
+    <td align="center"><img src="https://img.shields.io/badge/GenAI-%23FF4500.svg?style=for-the-badge&logo=OpenAI&logoColor=white" width="120"/><br>GenAI</td>
+  </tr>
+</table>
+
+---
+
+### 🧰 Platforms & Other Tools
+<table align="center">
+  <tr>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="45"/><br>Jupyter</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45"/><br>Linux</td>
+  </tr>
+</table>
+
+---
 
 ## 🎓 Education:
 - 🎓 **Masters in Big Data Analytics** (08/2023 - Present, Expected Graduation: 08/2025)  
