@@ -17,7 +17,7 @@
 **Robosoft Technologies (Feb/2025 - Now)**
 - **Trainee Data Analyst**
   - Working as a Trainee Data Analyst, exited to start a new chapter in this data analytics realm.
-    
+<!--    
 <h2 align="center">⚙️ Tech Stack</h2>
 
 <table align="center">
@@ -54,10 +54,11 @@
 </table>
 
 ---
+-->
 
-<h2 align="center">🧠 Data Analytics Tech Stack</h2>
+<h2 align="center"> Data Analytics Tech Stack</h2>
 
-### 📝 Programming Languages
+### Programming Languages
 <table align="center">
   <tr>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/><br>Python</td>
@@ -71,7 +72,7 @@
 
 ---
 
-### 📊 Data Analytics & BI Tools
+### Data Analytics & BI Tools
 <table align="center">
   <tr>
     <td align="center"><img src="https://img.shields.io/badge/Power%20BI-%23F2C811.svg?style=for-the-badge&logo=power-bi&logoColor=black" width="120"/><br>Power BI</td>
@@ -86,7 +87,7 @@
 
 ---
 
-### 🧱 Big Data & Cloud Tools
+### Big Data & Cloud Tools
 <table align="center">
   <tr>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="45"/><br>Hadoop</td>
@@ -98,7 +99,7 @@
 
 ---
 
-### 🤖 Machine Learning & Visualization
+### Machine Learning & Visualization
 <table align="center">
   <tr>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="45"/><br>scikit-learn</td>
@@ -111,7 +112,7 @@
 
 ---
 
-### 🧰 Platforms & Other Tools
+### Platforms & Other Tools
 <table align="center">
   <tr>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="45"/><br>Jupyter</td>
