@@ -59,9 +59,9 @@
 ---
 -->
 
-<h2 align="center"> Tech Stack</h2>
+<h2 align="center">Tech Stack & Tools</h2>
 
-### Programming Languages
+### Programming Languages & Databases
 <table align="center">
   <tr>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/><br>Python</td>
@@ -73,7 +73,7 @@
 
 ---
 
-### Business Intelligence & Data Tools
+### Business Intelligence, Analytics & Database Tools
 <table align="center">
   <tr>
     <td align="center"><img src="https://img.shields.io/badge/Power%20BI-%23F2C811.svg?style=for-the-badge&logo=power-bi&logoColor=black" width="120"/><br>Power BI</td>
@@ -90,7 +90,7 @@
 
 ---
 
-### Big Data & Cloud Tools
+### Big Data, Cloud & Streaming Technologies
 <table align="center">
   <tr>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="45"/><br>Hadoop</td>
@@ -102,7 +102,7 @@
 
 ---
 
-### Machine Learning & Visualization
+### Machine Learning, Visualization & Generative AI
 <table align="center">
   <tr>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="45"/><br>scikit-learn</td>
@@ -110,20 +110,19 @@
     <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Matplotlib_icon.svg/120px-Matplotlib_icon.svg.png" width="45"/><br>Matplotlib</td>
     <td align="center"><img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" width="120"/><br>Seaborn</td>
     <td align="center"><img src="https://img.shields.io/badge/GenAI-%23FF4500.svg?style=for-the-badge&logo=OpenAI&logoColor=white" width="120"/><br>GenAI</td>
+    <td align="center"><img src="https://raw.githubusercontent.com/plotly/dash-docs/master/images/plotly-logomark.png" width="45"/><br>Plotly</td>
   </tr>
 </table>
 
 ---
 
-### Platforms & Other Tools
+### Development Platforms & Tools
 <table align="center">
   <tr>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="45"/><br>Jupyter</td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45"/><br>Linux</td>
   </tr>
 </table>
-
----
 
 ## 🎓 Education:
 - 🎓 **Masters in Big Data Analytics** (08/2023 - Present, Expected Graduation: 08/2025)  
