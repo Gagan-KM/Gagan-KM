@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=4CAF50&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B+I'm+Gagan+K+M;Trainee+Data+Analyst+%F0%9F%93%88;Age%3A+22+%F0%9F%92%AB" alt="Intro Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=4CAF50&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B+I'm+Gagan+K+M;Data+Analyst+%F0%9F%93%88;Age%3A+22+%F0%9F%92%AB" alt="Intro Typing SVG" />
 </p>
 
 # 🌟 About Me:
