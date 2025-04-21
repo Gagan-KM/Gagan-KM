@@ -82,9 +82,11 @@
   <tr>
     <td align="center"><img src="https://img.shields.io/badge/Power%20BI-%23F2C811.svg?style=for-the-badge&logo=power-bi&logoColor=black" width="120"/><br>Power BI</td>
     <td align="center"><img src="https://img.shields.io/badge/Excel-%23217346.svg?style=for-the-badge&logo=microsoft-excel&logoColor=white" width="120"/><br>Excel</td>
+    <td align="center"><img src="https://img.shields.io/badge/Looker%20Studio-%230073E6.svg?style=for-the-badge&logo=looker&logoColor=white" width="120"/><br>Looker Studio</td>
+    <td align="center"><img src="https://img.shields.io/badge/Tableau-%23E97627.svg?style=for-the-badge&logo=tableau&logoColor=white" width="120"/><br>Tableau</td>
     <td align="center"><img src="https://www.gstatic.com/analytics-suite/header/suite/v2/ic_analytics.svg" width="45"/><br>Google Analytics</td>
     <td align="center"><img src="https://www.gstatic.com/analytics-suite/header/suite/v2/ic_tag_manager.svg" width="45"/><br>Google Tag Manager</td>
-    <td align="center"><img src="https://img.shields.io/badge/RStudio-%23007ACC.svg?style=for-the-badge&logo=rstudio&logoColor=white" width="120"/><br>RStudio</td>
+    <!-- <td align="center"><img src="https://img.shields.io/badge/RStudio-%23007ACC.svg?style=for-the-badge&logo=rstudio&logoColor=white" width="120"/><br>RStudio</td>-->
     <td align="center"><img src="https://img.shields.io/badge/Knime-%23FCC624.svg?style=for-the-badge&logo=knime&logoColor=black" width="120"/><br>KNIME</td>
     <td align="center"><img src="https://img.shields.io/badge/Pentaho-%234B8DB3.svg?style=for-the-badge&logo=pentaho&logoColor=white" width="120"/><br>Pentaho</td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45"/><br>PostgreSQL</td>
