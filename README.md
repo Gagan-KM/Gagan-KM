@@ -106,7 +106,7 @@
 <table align="center">
   <tr>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="45"/><br>scikit-learn</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="45"/><br>TensorFlow</td>
+   <!--<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="45"/><br>TensorFlow</td>-->
     <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Matplotlib_icon.svg/120px-Matplotlib_icon.svg.png" width="45"/><br>Matplotlib</td>
     <td align="center"><img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" width="120"/><br>Seaborn</td>
     <td align="center"><img src="https://img.shields.io/badge/GenAI-%23FF4500.svg?style=for-the-badge&logo=OpenAI&logoColor=white" width="120"/><br>GenAI</td>
