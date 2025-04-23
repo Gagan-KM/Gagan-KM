@@ -16,7 +16,9 @@
   <img src="https://ghchart.rshah.org/228B22/Gagan-KM" alt="Gagan's GitHub Graph" />
 </p>
 
-<h2 align="center">My GitHub Activity Overview</h2>
+---
+
+<h3 align="center">My GitHub Activity Overview</h3>
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gagan-KM&theme=github-dark&hide_border=true&area=true&custom_title=My%20GitHub%20Activity" alt="My GitHub Activity Graph" />
 </p>
