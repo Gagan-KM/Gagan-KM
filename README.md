@@ -9,6 +9,8 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=%23F75C7E&size=22&center=true&vCenter=true&lines=🧠+Code+more%2C+Sleep+less!;🚀+Keep+learning%2C+Keep+building!;🎯+Debugging+is+an+Art!;💡+Eat%2C+Sleep%2C+Code%2C+Repeat!;👨‍💻+Turning+coffee+into+code!;📈+One+commit+closer+to+greatness!;🌐+Build+locally%2C+deploy+globally!" alt="Typing SVG">
 </p>
 
+<br>
+
 ---
 
 <h3 align="center">My GitHub Contributions Activity</h3>
@@ -20,7 +22,7 @@
 
 <h3 align="center">My GitHub Activity Overview</h3>
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gagan-KM&theme=github-dark&hide_border=true&area=true&custom_title=My%20GitHub%20Activity" alt="My GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gagan-KM&theme=github-dark&hide_border=true&area=true&custom_title=My%20GitHub%20Activity"/>
 </p>
 
 ---
