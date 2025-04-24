@@ -11,9 +11,7 @@
 👋 Hey there! I'm <strong>Gagan K M</strong>, currently working as a <strong>Data Analyst</strong>.<br>
 📍 Originally from <em>Mangalore, Karnataka</em>, I'm pursuing a <strong>Master’s in Big Data Analytics</strong> with a Bachelor's in Computer Applications.<br>
 💻 I bring <strong>hands-on experience</strong> in machine learning and data engineering, with a strong grip on <strong>programming, software development</strong>, and <strong>problem-solving techniques</strong>.
-
     </td>
-
     <!-- GIF on the Right -->
     <td width="40%">
       <img src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" alt="Coding" width="400">
