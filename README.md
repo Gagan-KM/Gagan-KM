@@ -6,10 +6,10 @@
   <tr>
     <td width="60%">      
 <h1>🌟 About Me</h1>
-👋 Hey there! I'm Gagan K M, currently working as a data analyst. I'm originally from Mangalore, Karnataka, pursuing a Master’s in Big Data Analytics while holding a Bachelor’s degree in Computer Applications. With extensive hands-on experience in machine learning and data engineering projects, I have developed a solid foundation in programming, software development, and problem-solving techniques.
+👋 Hey there! I'm <strong>Gagan K M</strong>, currently working as a data analyst. I'm originally from Mangalore, Karnataka, pursuing a Master’s in Big Data Analytics while holding a Bachelor’s degree in Computer Applications. With extensive hands-on experience in machine learning and data engineering projects, I have developed a solid foundation in programming, software development, and problem-solving techniques.
     </td> 
     <td width="40%">
-      <img src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" alt="Coding" width="400">
+      <img align="right" alt="Programmer at Work" width="400" src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif">
     </td>
   </tr>
 </table>
