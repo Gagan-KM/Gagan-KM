@@ -2,6 +2,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=4CAF50&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B+I'm+Gagan+K+M;Data+Analyst+%F0%9F%93%88;Age%3A+22+%F0%9F%92%AB" alt="Intro Typing SVG" />
 </p>
 
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
+
+<img align="right" alt="Working" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
 # 🌟 About Me:
 👋 Hey there! I'm Gagan K M, currently working as a data analyst. I'm originally from Mangalore, Karnataka, pursuing a Master’s in Big Data Analytics while holding a Bachelor’s degree in Computer Applications. With extensive hands-on experience in machine learning and data engineering projects, I have developed a solid foundation in programming, software development, and problem-solving techniques.
 
