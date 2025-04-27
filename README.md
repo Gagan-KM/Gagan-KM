@@ -219,7 +219,7 @@ Thanks for stopping by! Let's connect and innovate together 🚀
 ---
 
 <div align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-size: 14px;">
-  <h3 style="margin-bottom: 10px;">GitHub Profile Visitors</h3>
+  <h3 style="margin-bottom: 10px;">My GitHub Profile Visitors</h3>
   <img src="https://profile-counter.glitch.me/Gagan-KM/count.svg" alt="Profile Visitor Count" />
   <p style="margin-top: 10px;">Thank you for visiting! Hope to connect with you soon. 😊</p>
 </div>
