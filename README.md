@@ -223,12 +223,3 @@ Thanks for stopping by! Let's connect and innovate together 🚀
   <img src="https://profile-counter.glitch.me/Gagan-KM/count.svg" alt="Profile Visitor Count" />
   <p style="margin-top: 10px;">Thank you for visiting! Hope to connect with you soon. 😊</p>
 </div>
-
-
-<div align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-size: 14px;">
-  <h3 style="margin-bottom: 10px;">GitHub Profile Visitors</h3>
-  <img src="https://komarev.com/ghpvc/?username=Gagan-KM&label=Profile%20Views&color=0e75b6&style=flat" alt="Gagan-KM" />
-  <p style="margin-top: 10px;">Thank you for visiting! Hope to connect with you soon. 😊</p>
-</div>
-
-
