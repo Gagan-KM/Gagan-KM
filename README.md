@@ -218,59 +218,6 @@ Thanks for stopping by! Let's connect and innovate together 🚀
 
 ---
 
-<h2 align="center">📊 My GitHub Stats</h2>
-
-<table align="center">
-  <tr>
-    <td align="center" width="50%">
-      <b>🏅 GitHub Trophies</b><br><br>
-      <img src="https://github-profile-trophy.vercel.app/?username=Gagan-KM&theme=gruvbox&no-frame=true&margin-w=15" alt="GitHub Trophies" />
-    </td>
-    <td align="center" width="50%">
-      <b>💬 Random Dev Quote</b><br><br>
-      <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox" alt="Random Dev Quote" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
-      <b>📌 Top Languages</b><br><br>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gagan-KM&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-    </td>
-    <td align="center" width="50%">
-      <b>😄 Random Dev Joke</b><br><br>
-      <img src="https://readme-jokes.vercel.app/api?bgColor=%230D1117&qColor=%23FFFF00" alt="Random Dev Joke" />
-    </td>
-  </tr>
-</table>
-
-<h2 align="center">🚀 My GitHub Dashboard</h2>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Gagan-KM&theme=monokai&no-frame=true&no-bg=true&margin-w=10" alt="GitHub Trophies" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gagan-KM&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gagan-KM&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gagan-KM&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
-</p>
-
-<p align="center">
-  <img src="https://readme-jokes.vercel.app/api?bgColor=%230D1117&qColor=%23FF6347" alt="Random Dev Joke" />
-</p>
-
-
-
 <div align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-size: 14px;">
   <h3 style="margin-bottom: 10px;">My GitHub Profile Visitors</h3>
   <img src="https://profile-counter.glitch.me/Gagan-KM/count.svg" alt="Profile Visitor Count" />
