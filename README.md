@@ -218,6 +218,32 @@ Thanks for stopping by! Let's connect and innovate together 🚀
 
 ---
 
+<h2 align="center">📊 My GitHub Stats</h2>
+
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <b>🏅 GitHub Trophies</b><br><br>
+      <img src="https://github-profile-trophy.vercel.app/?username=Gagan-KM&theme=gruvbox&no-frame=true&margin-w=15" alt="GitHub Trophies" />
+    </td>
+    <td align="center" width="50%">
+      <b>💬 Random Dev Quote</b><br><br>
+      <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox" alt="Random Dev Quote" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <b>📌 Top Languages</b><br><br>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gagan-KM&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+    </td>
+    <td align="center" width="50%">
+      <b>😄 Random Dev Joke</b><br><br>
+      <img src="https://readme-jokes.vercel.app/api?bgColor=%230D1117&qColor=%23FFFF00" alt="Random Dev Joke" />
+    </td>
+  </tr>
+</table>
+
+
 <div align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-size: 14px;">
   <h3 style="margin-bottom: 10px;">My GitHub Profile Visitors</h3>
   <img src="https://profile-counter.glitch.me/Gagan-KM/count.svg" alt="Profile Visitor Count" />
