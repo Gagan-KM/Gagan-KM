@@ -9,7 +9,7 @@
 👋 Hey there! I'm <strong>Gagan K M</strong>, currently working as a data analyst. I'm originally from Mangalore, Karnataka, pursuing a Master’s in Big Data Analytics while holding a Bachelor’s degree in Computer Applications. With extensive hands-on experience in machine learning and data engineering projects, I have developed a solid foundation in programming, software development, and problem-solving techniques.
     </td> 
     <td width="40%">
-        <img align="right" alt="Anime Boy Studying" width="400" src="https://gifdb.com/images/high/anime-boy-studying-9wr4kw5oht93cdip.gif">
+<img align="right" alt="Programmer Boy Typing" width="400" src="https://gifdb.com/images/high/animated-programmer-guy-coding-790a0bs8e8thpisg.gif">
     </td>
   </tr>
 </table>
