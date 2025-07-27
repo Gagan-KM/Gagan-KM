@@ -31,6 +31,7 @@
 ---
 
 <h3 align="center">My GitHub Contributions Activity</h3>
+
 <p align="center">
   <img src="https://ghchart.rshah.org/228B22/Gagan-KM" alt="Gagan's GitHub Graph" />
 </p>
